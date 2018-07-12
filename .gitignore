@@ -1,3 +1,6 @@
 graphql_sandbox/graphql_sandbox/bin/
 graphql_sandbox/graphql_sandbox/obj/
 graphql_sandbox/.vs/graphql_sandbox/v15/
+.vs/
+graphql_sandbox/bin/
+graphql_sandbox/obj/
